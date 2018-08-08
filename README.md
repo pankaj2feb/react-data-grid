@@ -11,7 +11,7 @@ Features:
                
 
 ##########################  
-Command to Run the Application:
+Command to Run the Application:                
 ##########################  
  npm install         
  npm start
