@@ -1,5 +1,4 @@
 About Grid:
-
 Grid is developed using React.
 
 Features:
@@ -8,9 +7,8 @@ Features:
 > Search
 > Row Grouping
 
+
 Command to Run the Application:
-
 > npm install
-
 > npm start
 
